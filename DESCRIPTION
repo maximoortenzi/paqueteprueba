@@ -1,0 +1,10 @@
+Package: paqueteprueba
+Title: Paquete De Prueba Para La Materia Programacion II
+Version: 0.0.0.9000
+Authors@R: person("Maximo", "Ortenzi", , "maximo.ortenzi@example.com", role = c("aut", "cre"))
+Description: Paquete de practica para aprender a crear paquetes de R,
+    siguiendo el libro de la materia Introduccion a la Programacion II.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.1.0
